@@ -1,0 +1,2 @@
+# Relational-Database-Support-for-Data-Warehouse
+Relational Database Support for Data Warehouses is the third course in the Data Warehousing for Business Intelligence specialization. In this course, you'll use analytical elements of SQL for answering business intelligence questions. You'll learn features of relational database management systems for managing summary data commonly used in business intelligence
